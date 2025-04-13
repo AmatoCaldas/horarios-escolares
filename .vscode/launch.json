@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-HorariosEscolaresApplication<horarios-escolares>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.jvtavares.horariosescolares.HorariosEscolaresApplication",
+      "projectName": "horarios-escolares",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
