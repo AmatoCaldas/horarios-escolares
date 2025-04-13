@@ -36,8 +36,3 @@ A aplicação não utiliza banco de dados persistente por padrão, mas conta com
 - Bootstrap 5
 - HTML5 + CSS3
 - Repositório em memória (sem banco de dados fixo)
-
----
-
-## 📂 Estrutura do Projeto
-
